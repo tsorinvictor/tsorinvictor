@@ -56,5 +56,5 @@
 <p>
   <a href="mailto:talpasorinvictor1990@gmail.com"><img src="https://img.shields.io/badge/Email-talpasorinvictor1990@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sorin_Victor_Talpa-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/tsvic90/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alyn3d_-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/tsvic90/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tsvic90_-blue?style=flat-square&logo=instagram"></a>
 </p>
