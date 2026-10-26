@@ -28,8 +28,8 @@
 - **Languages & Frameworks:** 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/> TypeScript</code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/> JavaScript</code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png" alt="HTML5"/> HTML5</code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="CSS3"/> CSS3</code>
+  <code><img height="20" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"/> HTML5</code>
+  <code><img height="20" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3"/> CSS3</code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/> React.js</code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Native"/> React Native</code>
 - **State & UI:** 
@@ -44,7 +44,7 @@
   <code>Cursor / Claude Code</code>
 - **Build Tools & DevOps:** 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/> Git</code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitbucket/bitbucket.png" alt="Bitbucket"/> Bitbucket</code>
+  <code><img height="20" src="https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket" alt="Bitbucket"/> Bitbucket</code>
   <code>Jenkins</code>
   <code>pnpm</code>
   <code>npm</code>
@@ -56,4 +56,5 @@
 <p>
   <a href="mailto:talpasorinvictor1990@gmail.com"><img src="https://img.shields.io/badge/Email-talpasorinvictor1990@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sorin_Victor_Talpa-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/tsvic90/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-alyn3d_-blue?style=flat-square&logo=instagram"></a>
 </p>
